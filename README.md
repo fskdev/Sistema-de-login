@@ -3,7 +3,7 @@ Sistema de login com sessions em PHP e MySQL
 
 # Dependências
 -> Xampp instalado (PHP, MySQL)
-
--> Criação da database:
-   -> Nome da DB: sistema_tutorial
-   -> Colunas: usuario, senha
+<br>
+-> Criação da database:<br>
+   -> Nome da DB: sistema_tutorial<br>
+   -> Colunas: usuario, senha<br>
