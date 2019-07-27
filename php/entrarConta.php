@@ -1,6 +1,5 @@
 <?php
 session_start();
-
 require('conectarBanco.php');
 
 if(isset($_POST['usuario']) && isset($_POST['senha']) || isset($_SESSION['userLogado'])) {
